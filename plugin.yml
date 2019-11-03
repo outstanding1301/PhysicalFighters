@@ -1,0 +1,12 @@
+name: PhysicalFighters
+main: Physical.Fighters.PhysicalFighters
+version: 1.0.0
+commands:
+  va:
+      description: This is a demo command.
+      permission: 
+      usage: /<command>
+  showmethemoney:
+      description: This is a demo command.
+      permission: 
+      usage: /<command>
