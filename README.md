@@ -8,8 +8,13 @@
 
 ## 플레이 영상
 
-[![Video Label](http://img.youtube.com/vi/baIuSnyTLgQ/0.jpg)](https://youtu.be/baIuSnyTLgQ?t=0s)
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/HAK1RG7Hy0w" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/QZfQs87IKGo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/baIuSnyTLgQ" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/QIK47-iM7PY" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
 ## Abilities
