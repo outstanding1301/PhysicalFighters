@@ -8,14 +8,13 @@
 
 ## 플레이 영상
 
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/HAK1RG7Hy0w" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+[![Video Label](http://img.youtube.com/vi/HAK1RG7Hy0w/0.jpg)](https://youtu.be/HAK1RG7Hy0w)
 
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/QZfQs87IKGo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+[![Video Label](http://img.youtube.com/vi/QZfQs87IKGo/0.jpg)](https://youtu.be/QZfQs87IKGo)
 
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/baIuSnyTLgQ" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+[![Video Label](http://img.youtube.com/vi/baIuSnyTLgQ/0.jpg)](https://youtu.be/baIuSnyTLgQ)
 
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/QIK47-iM7PY" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
+[![Video Label](http://img.youtube.com/vi/QIK47-iM7PY/0.jpg)](https://youtu.be/QIK47-iM7PY)
 
 ## Abilities
 - 깃털
